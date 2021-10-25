@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\tzz\prjs\flutter_native\CallingNativeLibrariesInFlutterWithDartFFI_Materials\final\android\app\.cxx\cmake\release\x86'
+[1/1] Linking C shared library C:\Users\tzz\prjs\flutter_native\CallingNativeLibrariesInFlutterWithDartFFI_Materials\final\build\app\intermediates\cmake\release\obj\x86\libweather.so

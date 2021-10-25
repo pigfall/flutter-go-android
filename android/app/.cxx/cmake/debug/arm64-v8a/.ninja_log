@@ -1,0 +1,13 @@
+# ninja log v5
+0	1408	656830806	CMakeFiles/weather.dir/6ea8d49823dc5cca79fd05e3552784e8/final/src/weather.c.o	cd605a82a6190d0d
+1410	2962	656830808	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+4	1984	656837675	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+8	2379	656842511	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+3	1376	656842787	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+5	1604	656843551	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+4	1540	656843717	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+3	1274	656843994	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+5	1302	656844203	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+4	1381	656852602	CMakeFiles/weather.dir/6ea8d49823dc5cca79fd05e3552784e8/final/src/weather.c.o	ae311e392f3bdec1
+1382	2761	656852603	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada
+4	2746	656856424	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/arm64-v8a/libweather.so	e17532b1be8bbada

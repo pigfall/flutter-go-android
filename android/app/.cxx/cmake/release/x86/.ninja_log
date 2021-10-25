@@ -1,0 +1,9 @@
+# ninja log v5
+0	1388	656836843	CMakeFiles/weather.dir/6ea8d49823dc5cca79fd05e3552784e8/final/src/weather.c.o	31e8c1aa6c34c2c1
+1389	2717	656836844	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/release/obj/x86/libweather.so	14c7a957c83a748
+9	1804	656844562	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/release/obj/x86/libweather.so	14c7a957c83a748
+5	1371	656846854	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/release/obj/x86/libweather.so	14c7a957c83a748
+2	1344	656847004	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/release/obj/x86/libweather.so	14c7a957c83a748
+3	1376	656847997	CMakeFiles/weather.dir/6ea8d49823dc5cca79fd05e3552784e8/final/src/weather.c.o	c45f76e27aeaccf1
+1376	2639	656847998	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/release/obj/x86/libweather.so	14c7a957c83a748
+4	1439	656852442	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/release/obj/x86/libweather.so	14c7a957c83a748

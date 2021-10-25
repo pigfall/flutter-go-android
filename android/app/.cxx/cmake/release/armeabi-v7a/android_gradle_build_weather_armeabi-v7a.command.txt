@@ -1,0 +1,7 @@
+Executable : C:\Users\tzz\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\tzz\prjs\flutter_native\CallingNativeLibrariesInFlutterWithDartFFI_Materials\final\android\app\.cxx\cmake\release\armeabi-v7a
+weather
+jvmArgs : 
+

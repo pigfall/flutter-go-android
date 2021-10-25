@@ -1,0 +1,13 @@
+# ninja log v5
+0	1431	656830810	CMakeFiles/weather.dir/6ea8d49823dc5cca79fd05e3552784e8/final/src/weather.c.o	fb0b155755c22408
+1432	2773	656830811	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+3	2041	656837677	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+4	1439	656842513	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+4	1370	656842789	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+3	1445	656843552	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+9	1528	656843719	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+4	1329	656843995	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+2	1270	656844205	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+3	1199	656852604	CMakeFiles/weather.dir/6ea8d49823dc5cca79fd05e3552784e8/final/src/weather.c.o	380ec42fa5bfb787
+1200	2384	656852605	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f
+12	2352	656856426	C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/build/app/intermediates/cmake/debug/obj/x86/libweather.so	b679ee1e43079e5f

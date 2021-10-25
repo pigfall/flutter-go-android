@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\tzz\prjs\flutter_native\CallingNativeLibrariesInFlutterWithDartFFI_Materials\final\android\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

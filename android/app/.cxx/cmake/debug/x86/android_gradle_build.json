@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "C:/Users/tzz/prjs/flutter_native/CallingNativeLibrariesInFlutterWithDartFFI_Materials/final/android/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=C:/Users/tzz/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/tzz/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dweather_EXPORTS -I../../../../tzzlib.h -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\tzz\\prjs\\flutter_native\\CallingNativeLibrariesInFlutterWithDartFFI_Materials\\final\\android\\app\\CMakeLists.txt",
+    "C:\\Users\\tzz\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\tzz\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\tzz\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tzz\\prjs\\flutter_native\\CallingNativeLibrariesInFlutterWithDartFFI_Materials\\final\\android\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\tzz\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\tzz\\prjs\\flutter_native\\CallingNativeLibrariesInFlutterWithDartFFI_Materials\\final\\android\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "weather-Debug-x86": {
+      "buildCommand": "C:\\Users\\tzz\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\tzz\\prjs\\flutter_native\\CallingNativeLibrariesInFlutterWithDartFFI_Materials\\final\\android\\app\\.cxx\\cmake\\debug\\x86\" weather",
+      "buildType": "debug",
+      "toolchain": "3668967978",
+      "abi": "x86",
+      "artifactName": "weather",
+      "files": [
+        {
+          "src": "C:\\Users\\tzz\\prjs\\flutter_native\\CallingNativeLibrariesInFlutterWithDartFFI_Materials\\final\\src\\weather.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\tzz\\prjs\\flutter_native\\CallingNativeLibrariesInFlutterWithDartFFI_Materials\\final\\build\\app\\intermediates\\cmake\\debug\\obj\\x86\\libweather.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3668967978": {
+      "cCompilerExecutable": "C:\\Users\\tzz\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
